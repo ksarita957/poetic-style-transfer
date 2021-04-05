@@ -1,0 +1,1 @@
+These are the saved VAE models with unidirectional and bidirectional attention. Can use by changing path in appropriate cell in the notebook
