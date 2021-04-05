@@ -1,1 +1,1 @@
-These are the saved VAE models with unidirectional and bidirectional attention. Can use by changing path in appropriate cell in the notebook
+These are the saved VAE models with unidirectional and bidirectional attention. Can use by changing path in appropriate cell in the notebook. The bidirectional models are compressed for space - unzip when downloading to get the model
